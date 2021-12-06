@@ -1,0 +1,4 @@
+  Bug1:failed login
+  Bug2:UI doesnt match mockup
+  Bug3:page is loading too slow
+  Bug4:Apple pay doesnt work
