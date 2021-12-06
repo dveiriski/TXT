@@ -1,0 +1,6 @@
+Fav movie :Limitless
+Fav series: breaking bad
+Fav meal :Salmon
+Fav season:Summer
+Fav country: USA
+
