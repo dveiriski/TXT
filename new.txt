@@ -1,0 +1,6 @@
+Name: Ruslan Nalhiiev
+Age: 23
+Pets: 1 cat
+expected sallary: 1 ETH
+
+
